@@ -25,9 +25,9 @@
     "url": "http://admin.drawbeat.com",
     "icon": "https://favicons.githubusercontent.com/admin.drawbeat.com",
     "slug": "admin-drawbeat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 86,
     "timeMonth": 107,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-29": 0
+    }
   },
   {
     "name": "api.drawbeat.com",
