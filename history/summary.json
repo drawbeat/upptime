@@ -24,19 +24,19 @@
     "url": "http://admin.drawbeat.com",
     "icon": "https://favicons.githubusercontent.com/admin.drawbeat.com",
     "slug": "admin-drawbeat-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 110,
-    "timeDay": 128,
-    "timeWeek": 95,
+    "timeDay": 124,
+    "timeWeek": 98,
     "timeMonth": 112,
     "timeYear": 110,
     "dailyMinutesDown": {
-      "2021-12-04": 1
+      "2021-12-04": 16
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://api.drawbeat.com/v1/auth/me",
     "icon": "https://favicons.githubusercontent.com/api.drawbeat.com",
     "slug": "api-drawbeat-com",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 638,
-    "timeDay": 668,
-    "timeWeek": 745,
-    "timeMonth": 653,
-    "timeYear": 638,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 639,
+    "timeDay": 672,
+    "timeWeek": 736,
+    "timeMonth": 654,
+    "timeYear": 639,
     "dailyMinutesDown": {
-      "2021-12-04": 0
+      "2021-12-04": 15
     }
   }
 ]
