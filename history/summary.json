@@ -4,10 +4,10 @@
     "url": "http://drawbeat.com",
     "icon": "https://favicons.githubusercontent.com/drawbeat.com",
     "slug": "drawbeat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 3095,
@@ -16,6 +16,7 @@
     "timeMonth": 3814,
     "timeYear": 3095,
     "dailyMinutesDown": {
+      "2021-12-15": 2,
       "2021-09-01": 30
     }
   },
@@ -44,9 +45,9 @@
     "url": "https://api.drawbeat.com/v1/auth/me",
     "icon": "https://favicons.githubusercontent.com/api.drawbeat.com",
     "slug": "api-drawbeat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
@@ -56,6 +57,7 @@
     "timeMonth": 594,
     "timeYear": 622,
     "dailyMinutesDown": {
+      "2021-12-15": 0,
       "2021-12-04": 15
     }
   }
