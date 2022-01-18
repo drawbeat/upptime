@@ -24,11 +24,11 @@
     "url": "http://admin.drawbeat.com",
     "icon": "https://favicons.githubusercontent.com/admin.drawbeat.com",
     "slug": "admin-drawbeat-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 100,
     "timeDay": 64,
@@ -36,7 +36,7 @@
     "timeMonth": 76,
     "timeYear": 100,
     "dailyMinutesDown": {
-      "2022-01-18": 5,
+      "2022-01-18": 0,
       "2021-12-04": 16
     }
   },
