@@ -7,7 +7,7 @@ sites:
   - name: admin.drawbeat.com
     url: http://admin.drawbeat.com
   - name: api.drawbeat.com
-    url: https://api.drawbeat.com/v1/auth/me
+    url: http://api.drawbeat.com
 
 status-website:
   cname: upptime.drawbeat.com
