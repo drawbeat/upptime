@@ -2,12 +2,12 @@ owner: drawbeat
 repo: upptime
 
 sites:
-  - name: drawbeat.com
-    url: http://drawbeat.com
-  - name: admin.drawbeat.com
-    url: http://admin.drawbeat.com
-  - name: api.drawbeat.com
-    url: https://api.drawbeat.com/v1/auth/me
+  # - name: drawbeat.com
+  #   url: http://drawbeat.com
+  # - name: admin.drawbeat.com
+  #   url: http://admin.drawbeat.com
+  # - name: api.drawbeat.com
+  #   url: https://api.drawbeat.com/v1/auth/me
 
 status-website:
   cname: upptime.drawbeat.com
