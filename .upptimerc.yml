@@ -2,6 +2,8 @@ owner: drawbeat
 repo: upptime
 
 sites:
+  - name: Vercel
+    url: https://vercel.com
   # - name: drawbeat.com
   #   url: http://drawbeat.com
   # - name: admin.drawbeat.com
