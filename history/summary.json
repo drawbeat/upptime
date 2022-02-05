@@ -4,17 +4,19 @@
     "url": "https://vercel.com",
     "icon": "https://favicons.githubusercontent.com/vercel.com",
     "slug": "vercel",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 99,
-    "timeDay": 99,
+    "timeDay": 101,
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-05": 0
+    }
   }
 ]
