@@ -5,18 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/vercel.com",
     "slug": "vercel",
     "status": "up",
-    "uptime": "99.79%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.79%",
-    "uptimeYear": "99.79%",
-    "time": 107,
-    "timeDay": 112,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
-    "dailyMinutesDown": {
-      "2022-02-05": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 90,
+    "timeDay": 82,
+    "timeWeek": 90,
+    "timeMonth": 90,
+    "timeYear": 90,
+    "dailyMinutesDown": {}
   }
 ]
