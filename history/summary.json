@@ -4,17 +4,19 @@
     "url": "https://vercel.com",
     "icon": "https://icons.duckduckgo.com/ip3/vercel.com.ico",
     "slug": "vercel",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 125,
-    "timeWeek": 141,
-    "timeMonth": 156,
+    "timeDay": 101,
+    "timeWeek": 135,
+    "timeMonth": 154,
     "timeYear": 194,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-21": 9
+    }
   }
 ]
