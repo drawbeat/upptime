@@ -6,17 +6,15 @@
     "slug": "vercel",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 186,
     "timeDay": 109,
     "timeWeek": 187,
     "timeMonth": 180,
     "timeYear": 165,
-    "dailyMinutesDown": {
-      "2025-10-03": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
